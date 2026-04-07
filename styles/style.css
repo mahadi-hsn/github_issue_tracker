@@ -1,0 +1,14 @@
+
+.geist{
+  font-family: "Geist", sans-serif;
+}
+
+.active{
+  background-color: rgb(67,42,212);
+  color: white;
+}
+
+.low{
+  background-color: rgb(254,247,209);
+  color: rgb(247,178,56);
+}
